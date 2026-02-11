@@ -7,6 +7,10 @@ Analysis tools for biodiversity research data. This project demonstrates reprodu
 
 > **Note:** This is a teaching/demo repository. The DOI above points to Zenodo Sandbox for demonstration purposes.
 
+## 📚 Workshop Participants
+
+**New here?** See [FOLLOW_ALONG.md](FOLLOW_ALONG.md) for a step-by-step guide to exploring this repository's six states (01-start → 06-metadata) and understanding how research software becomes FAIR (Findable, Accessible, Interoperable, Reusable).
+
 ## Features
 
 - **Reproducible Environment**: Uses [pixi](https://pixi.sh) for cross-platform dependency management
