@@ -1,6 +1,6 @@
 # Biodiversity Analysis Toolkit
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.439801.svg)](https://doi.org/10.5072/zenodo.439801)
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.439801.svg)](https://handle.test.datacite.org/10.5072/zenodo.439801)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 Analysis tools for biodiversity research data. This project demonstrates reproducible research software workflows.
