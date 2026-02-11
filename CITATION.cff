@@ -5,14 +5,29 @@ authors:
   - family-names: "Dennis"
     given-names: "Tim"
     orcid: "https://orcid.org/0000-0001-6632-3812"
+    affiliation: "University of California Los Angeles"
   - family-names: "Phan"
     given-names: "Leigh"
     orcid: "https://orcid.org/0000-0002-8605-1444"
+    affiliation: "University of California Los Angeles"
   - family-names: "Otsuji"
     given-names: "Reid"
     orcid: "https://orcid.org/0000-0002-1842-0295"
+    affiliation: "University of California San Diego"
   - family-names: "Padilla"
     given-names: "Karla"
+    affiliation: "University of California San Diego"
 version: "0.1.0"
+doi: 10.5072/zenodo.123456
 date-released: 2026-02-01
 url: "https://github.com/jt14den/software-demo"
+repository-code: "https://github.com/jt14den/software-demo"
+keywords:
+  - biodiversity
+  - research-software
+  - reproducibility
+  - fair4rs
+  - python
+  - data-analysis
+abstract: "Analysis tools for biodiversity research data. Demonstrates reproducible research software workflows following FAIR4RS principles."
+license: BSD-3-Clause
